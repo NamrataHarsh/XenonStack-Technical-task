@@ -1,4 +1,7 @@
 # XenonStack-Technical-task
+EACH AND EVERY SECTION OF THE PAGE IS FULLY RESPONSIVE. THIS WAS OBTAINED BY USING MEDIA QUERIES IN CSS.
+
+
 SIGN UP/IN
 Using the structure of HTML these two pages are designed. CSS and javascript are used for designing and event generations. CSS animations are also used that are generated when user shifts from sign in to sign up and vice versa.
 CODE FILE NAME: INDEX.HTML, STYLE.CSS, APP.JS

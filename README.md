@@ -56,6 +56,8 @@ LOCALHOST
  
  EACH AND EVERY SECTION OF THE PAGE IS FULLY RESPONSIVE. THIS WAS OBTAINED BY USING MEDIA QUERIES IN CSS.
  
+ The concept of media queries was used to create the site fully responsive in all in desktop and mobile devices.
+ 
  ![respo3](https://user-images.githubusercontent.com/78338126/182256628-7c2bc397-07c4-4d35-af30-f364644247de.jpg)
  
 ![responsive1](https://user-images.githubusercontent.com/78338126/182256668-35b19bd3-f7a7-441b-8c2a-a8ba0df504ad.jpg)
